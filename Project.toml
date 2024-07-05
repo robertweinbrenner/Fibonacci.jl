@@ -1,0 +1,7 @@
+name = "Fibonacci"
+uuid = "679207c8-0b77-4099-9df9-4467a31cec55"
+authors = ["Robert Weinbrenner <robert.weinbrenner@t-online.de> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.7"
