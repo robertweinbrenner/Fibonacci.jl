@@ -5,4 +5,4 @@
 [![Build Status](https://github.com/robertweinbrenner/Fibonacci.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/robertweinbrenner/Fibonacci.jl/actions/workflows/CI.yml?query=branch%3Amain)
 [![Coverage](https://codecov.io/gh/robertweinbrenner/Fibonacci.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/robertweinbrenner/Fibonacci.jl)
 
-this is a Julia code to calculate Fibonacci numbers.
+This is a Julia code to calculate Fibonacci numbers.
